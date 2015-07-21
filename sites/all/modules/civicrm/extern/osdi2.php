@@ -16,6 +16,7 @@
         "osdi:people": [
               /* Array value (where contact_id=<value corresponding to the individual person's record>) to be passed into the array
                 to retrieve a particular record pulled out of the CiviCRM's samples database. */
+                return (civicrm_api3_create_success($contact_id=value, $params, 'People', 'get');
             ],
         }        
     }
