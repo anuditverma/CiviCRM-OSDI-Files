@@ -13,7 +13,7 @@ $params['_links'] = array(
                             'title' => 'The branding logo for use in UI'),
     'osdi:people' => array('href' => '/sites/default/ext/osdi/api/v3/People/index.php',
                             'title' => 'The collection of people in the system'),
-    'osdi:person_signup_helper' => array('href' => '/sites/default/ext/osdi/api/v3/post.php',
+    'osdi:person_signup_helper' => array('href' => '/sites/default/ext/osdi/api/v3/signup.php',
     								'title' => 'Proxy signup helper')
 );
 
